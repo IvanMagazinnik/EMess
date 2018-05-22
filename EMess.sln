@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMess", "EMess\EMess.csproj", "{BAF8564A-73FE-44B3-B9FE-7D4F3B616C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF8564A-73FE-44B3-B9FE-7D4F3B616C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF8564A-73FE-44B3-B9FE-7D4F3B616C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF8564A-73FE-44B3-B9FE-7D4F3B616C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF8564A-73FE-44B3-B9FE-7D4F3B616C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A01E43D-1808-44FC-BA12-6344217025DA}
+	EndGlobalSection
+EndGlobal
